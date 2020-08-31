@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizFlags</string>
+    <string name="label_welcome">Welcome</string>
+    <string name="label_enter_your_name">Please enter your name</string>
+    <string name="hint_name">Name</string>
+    <string name="button_start">Start</string>
+    <string name="label_question">What country does this flag belong to?</string>
+    <string name="image_description">image</string>
+    <string name="button_answer">Answer</string>
+    <string name="label_result">Result</string>
+    <string name="label_hey_congratulations">Hey, Congratulations!!!</string>
+    <string name="button_finish">FINISH</string>
+</resources>
